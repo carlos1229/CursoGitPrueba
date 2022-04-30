@@ -1,0 +1,9 @@
+body{
+    padding: 10px;
+    /*background: rgb(21, 108, 221);*/
+}
+.colum1{
+    background: rgb(28, 201, 178);
+    margin: 15px;
+    border-radius: 15px;
+}
